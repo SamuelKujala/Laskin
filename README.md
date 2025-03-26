@@ -1,3 +1,1 @@
-Laskin
-
-Tässä on laskin harjoitustyö projekti
+LaskinProjekti
